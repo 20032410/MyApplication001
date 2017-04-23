@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("start the app for logout");
         System.out.println("renew for the test");
+        System.out.println("renew for the test 2");
     }
 }
